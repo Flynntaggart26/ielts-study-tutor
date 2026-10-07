@@ -1,0 +1,18 @@
+name: New source
+description: Suggest a better IELTS source
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Source name + URL
+    validations:
+      required: true
+  - type: dropdown
+    id: cost
+    attributes:
+      label: Cost
+      options: [Free, Freemium, Paid]
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it better than existing Tier equivalent?

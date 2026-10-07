@@ -1,0 +1,15 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# No large binaries — link to official tests, don't commit PDFs/audio
+*.pdf
+*.mp3
+*.zip
+
+# Temp
+*.bak
+~$*

@@ -1,0 +1,16 @@
+[
+  {"name": "Cambridge IELTS 10-19", "category": "official mock", "level": "B1-C2", "cost": "paid", "for": "real tests", "url": "https://www.cambridgeenglish.org/"},
+  {"name": "Official Cambridge Guide to IELTS", "category": "book", "level": "B1-B2", "cost": "paid", "for": "complete prep", "url": "https://www.cambridge.org/"},
+  {"name": "IELTS Liz", "category": "website", "level": "B1-C1", "cost": "free", "for": "strategy + models", "url": "https://ieltsliz.com"},
+  {"name": "IELTS Simon", "category": "website", "level": "B2-C1", "cost": "free", "for": "Task 2 ideas", "url": "https://ielts-simon.com"},
+  {"name": "IELTS Advantage", "category": "website/youtube", "level": "B2-C1", "cost": "freemium", "for": "Writing 7+", "url": "https://www.ieltsadvantage.com"},
+  {"name": "E2 IELTS YouTube", "category": "youtube", "level": "B1-C1", "cost": "free", "for": "walkthroughs", "url": "https://www.youtube.com/@E2IELTS"},
+  {"name": "AcademicEnglishHelp", "category": "youtube", "level": "B2-C1", "cost": "free", "for": "Speaking 9 samples", "url": "https://www.youtube.com/@academicenglishhelp"},
+  {"name": "Road to IELTS", "category": "course/app", "level": "B1-C1", "cost": "freemium", "for": "interactive mocks", "url": "https://www.roadtoielts.com"},
+  {"name": "Write & Improve", "category": "tool", "level": "B1-C1", "cost": "free", "for": "instant writing feedback", "url": "https://writeandimprove.com"},
+  {"name": "IELTS Online Tests", "category": "website", "level": "B1-C1", "cost": "free", "for": "volume practice", "url": "https://ieltsonlinetests.com"},
+  {"name": "BBC 6 Minute English", "category": "podcast", "level": "B2-C1", "cost": "free", "for": "listening + vocab", "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english"},
+  {"name": "Anki + AWL deck", "category": "app", "level": "All", "cost": "free", "for": "vocab retention", "url": "https://apps.ankiweb.net/"},
+  {"name": "ELSA Speak", "category": "app", "level": "B1-C1", "cost": "freemium", "for": "pronunciation", "url": "https://elsaspeak.com"},
+  {"name": "British Council free tests", "category": "official mock", "level": "B1-C1", "cost": "free", "for": "timed practice", "url": "https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests"}
+]
